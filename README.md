@@ -1,4 +1,6 @@
-This is a system identification pipeline for SISO systems. It includes:
+This is a system identification pipeline for SISO systems coded in MATLAB. It has been written with the contribution of Francis PANATIER, during the EPFL course _System Identification_ (ME-421) taught by Pr. Alireza Karimi.
+
+It includes:
 - Input data analysis and detrending,
 - Frequency response identification (using different Spectral Analysis (averaged, windowed)),
 - System structure identification:
